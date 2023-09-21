@@ -17,12 +17,12 @@
 - **Tools**: Git, Webpack, VS Code, Chrome DevTools
 
 ## 🌐 Recent Projects:
-- 📚 [QuizApp](https://github.com/[YourUsername]/QuizApp) - A fun quiz game built using Object-Oriented Programming.
-- ☀️ [Weather-App](https://github.com/[YourUsername]/Weather-App) - A user-friendly tool for weather insights.
+- 📚 [QuizApp](https://github.com/Mohamed-Huss/QuizApp) - Dive into an interactive quiz experience.
+- ☀️ [Weather-App](https://github.com/Mohamed-Huss/Weather-App) - User-friendly weather insights.
+- 🔒 [Smart Login System](https://github.com/Mohamed-Huss/Smart-Login-System) - Enhanced validation for user inputs.
+- 📖 [Online Bookmarker](https://github.com/Mohamed-Huss/My-Bookmark) - Save and manage your favorite web destinations.
+- 💬 [Random Quote Generator](https://github.com/Mohamed-Huss/Random-quote-generator) - Get inspired with every click, without repetitions.
   
-## 📈 Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Huss&show_icons=true&hide_title=true&count_private=true&hide_rank=false&theme=default)
-
 ## 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/mohamedhussein92/)
 - 📧 [Email](mailto:mhuss106@uottawa.ca)
