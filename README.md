@@ -21,10 +21,10 @@
 - ☀️ [Weather-App](https://github.com/[YourUsername]/Weather-App) - A user-friendly tool for weather insights.
   
 ## 📈 Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide_rank=false&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Huss&show_icons=true&hide_title=true&count_private=true&hide_rank=false&theme=default)
 
 ## 🤝 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/mohamedhussein92/))
+- [LinkedIn](https://www.linkedin.com/in/mohamedhussein92/)
 - 📧 [Email](mailto:mhuss106@uottawa.ca)
 
 ---
