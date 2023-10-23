@@ -12,7 +12,7 @@
 
 ## 🛠 Toolbox:
 - **Languages**: HTML5, CSS3, SCSS, JavaScript(ES6+), TypeScript
-- **JavaScript Frameworks/Libraries**: React, Next.js, React-query, Redux, jQuery
+- **JavaScript Frameworks/Libraries**: React, Next.js, React Query, Redux, jQuery
 - **CSS Frameworks/Libraries**: Bootstrap, familiar with Foundation and Tailwind
 - **Tools**: Git, Webpack, VS Code, Chrome DevTools
 
