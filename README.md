@@ -8,15 +8,15 @@
 ## 🔭 Current Endeavors:
 - 🔨 Working on personal projects to refine my skills in React, CSS animations, and state management.
 - 🌱 Diving deeper into the world of frontend frameworks and libraries.
-- 💼 Actively seeking entry-level frontend development roles to begin my professional journey.
+- 💼 Actively seeking frontend development roles to take my professional career to the next level.
 
 ## 🛠 Toolbox:
 - **Languages**: HTML5, CSS3, SCSS, JavaScript(ES6+), TypeScript
-- **JavaScript Frameworks/Libraries**: React, Redux, jQuery
-- **CSS Frameworks/Libraries**: Bootstrap, familiar with Foundation
+- **JavaScript Frameworks/Libraries**: React, Next.js, React-query, Redux, jQuery
+- **CSS Frameworks/Libraries**: Bootstrap, familiar with Foundation and Tailwind
 - **Tools**: Git, Webpack, VS Code, Chrome DevTools
 
-## 🌐 Recent Projects:
+## 🌐 selected Projects:
 - 📚 [QuizApp](https://github.com/Mohamed-Huss/QuizApp) - Dive into an interactive quiz experience.
 - ☀️ [Weather-App](https://github.com/Mohamed-Huss/Weather-App) - User-friendly weather insights.
 - 🔒 [Smart Login System](https://github.com/Mohamed-Huss/Smart-Login-System) - Enhanced validation for user inputs.
