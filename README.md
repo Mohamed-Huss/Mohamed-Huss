@@ -32,8 +32,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
-## 🌐 selected Projects:
 ## 🌐 Selected Projects:
 - 📚 [QuizApp](https://github.com/Mohamed-Huss/QuizApp) - Dive into an interactive quiz experience.
 - ☀️ [Weather-App](https://github.com/Mohamed-Huss/Weather-App) - User-friendly weather insights.
@@ -49,7 +47,7 @@
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="15" width="20" /></a>
 </p>
-- [![Email](https://raw.githubusercontent.com/Mohamed-Huss/GitHub-Profile-Assets/main/email-icon.png)](mailto:mhuss106@uottawa.ca)
+- [![Email](mailto:mhuss106@uottawa.ca)
 
 ---
 
