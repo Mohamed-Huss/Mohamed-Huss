@@ -51,7 +51,7 @@
 
 <span align="left">
 <a href="mailto:mhuss106@uottawa.ca">
-<img align="center" src="https://github.com/Mohamed-Huss/Assets/blob/main/mail-email-svgrepo-com.svg" alt="Mohamed Hussein Email" height="20" width="25" /></a>
+<img align="center" src="https://github.com/Mohamed-Huss/Assets/blob/main/mail-email-svgrepo-com.svg" alt="Mohamed Hussein Email" height="25" width="25" /></a>
 </span>
 
 
