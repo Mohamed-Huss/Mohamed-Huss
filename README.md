@@ -45,13 +45,14 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="15" width="20" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="20" width="25" /></a>
 </p>
 <p> <a href="mailto:mhuss106@uottawa.ca">
-    <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd">
+    <svg width="25" height="20" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd">
         <path d="M12 11.713l-11.985-9.713h23.97l-11.985 9.713zm0 1.574l-12-9.718v15.431h24v-15.431l-12 9.718zm-12-11.287l12 9.713 12-9.713h-24zm24 1.287l-2.482-2.013-9.518 7.715-9.518-7.715-2.482 2.013h24zm-12 12.713l12-9.718v2.431l-12 9.718-12-9.718v-2.431l12 9.718z"/>
     </svg>
-</a></p>
+</a>
+</p>
 
 
 
