@@ -1,9 +1,4 @@
-# Hello there! I'm Mohamed Hussein 👋
-
-@@ -1,27 +1,24 @@
-<div align="center">
-<img  style="width:60%; margin-top:1.5rem; " src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Huss&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Hussein" /> </p>
+# Hello there! I'm Mohamed Hussein 👋  <span align="right"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Huss&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Hussein" /> </span>
 
 🚀 Welcome to my slice of GitHub. I'm a passionate, budding Frontend Web Developer, dedicated to turning abstract ideas into tangible digital experiences. With a deep interest in responsive design and seamless user interactions, I strive to bridge the gap between engaging UI and efficient functionality.
 
