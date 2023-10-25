@@ -44,7 +44,13 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="15" width="20" /></a>
-📧 [Email](mailto:mhuss106@uottawa.ca)</p>
+</p>
+
+<p align="left">
+<a href="mailto:mhuss106@uottawa.ca" target="_blank">
+<img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=j8N7dLYI&id=08652329DEFB5FA5B2E783A22590018006872FCB&thid=OIP.j8N7dLYIpiJYj7qjYUhfMgHaHa&mediaurl=https%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8fc37b74b608a622588fbaa361485f32%3frik%3dyy%252bHBoABkCWigw%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=email+icon&simid=608022509033161729&FORM=IRPRST&ck=00142A05F819E6B6D7980B91C92C277B&selectedIndex=5&ajaxhist=0&ajaxserp=0" alt="Email Mohamed Hussein" height="15" width="20" /></a>
+</p>
+
 ---
 
 _"The future belongs to those who believe in the beauty of their dreams."_ ✨
