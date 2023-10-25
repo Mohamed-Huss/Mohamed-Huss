@@ -45,9 +45,9 @@
 
 <span align="left">
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="20" width="25" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="25" width="25" /></a>
 </span>
-<span> </span>
+<span>      </span>
 
 <span align="left">
 <a href="mailto:mhuss106@uottawa.ca">
