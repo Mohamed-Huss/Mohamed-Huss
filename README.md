@@ -30,7 +30,7 @@
 - 🍽️ [Yummy App](https://github.com/Mohamed-Huss/Yummy-App) - Discover delicious meals and recipes from around the world.
 
 ## 🤝 Let's Connect:
-- <span align="left">
+<span>- </span><span align="left">
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="15" width="20" /></a>
 </span>
