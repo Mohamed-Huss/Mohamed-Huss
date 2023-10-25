@@ -47,7 +47,8 @@
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="15" width="20" /></a>
 </p>
-[Email](mailto:mhuss106@uottawa.ca)
+[![Email](https://img.shields.io/badge/Email-%20-blue?style=flat-square&logo=microsoft-outlook)](mailto:mhuss106@uottawa.ca)
+
 
 ---
 
