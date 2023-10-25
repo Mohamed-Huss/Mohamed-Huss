@@ -35,11 +35,13 @@
 ## 🌐 Selected Projects:
 - 📚 [QuizApp](https://github.com/Mohamed-Huss/QuizApp) - Dive into an interactive quiz experience.
 - ☀️ [Weather-App](https://github.com/Mohamed-Huss/Weather-App) - User-friendly weather insights.
-- 🔒 [Smart Login System](https://github.com/Mohamed-Huss/Smart-Login-System) - Enhanced validation for user inputs.
-- 📖 [Online Bookmarker](https://github.com/Mohamed-Huss/My-Bookmark) - Save and manage your favorite web destinations.
-- 💬 [Random Quote Generator](https://github.com/Mohamed-Huss/Random-quote-generator) - Get inspired with every click, without repetitions.
-- 📝 [Todo List App](https://github.com/Mohamed-Huss/Todo-List-App) - Organize your tasks and boost productivity.
 - 🍽️ [Yummy App](https://github.com/Mohamed-Huss/Yummy-App) - Discover delicious meals and recipes from around the world.
+- 📝 [Todo List App](https://github.com/Mohamed-Huss/Todo-List-App) - Organize your tasks and boost productivity.
+<!-- - 🔒 [Smart Login System](https://github.com/Mohamed-Huss/Smart-Login-System) - Enhanced validation for user inputs.
+- 📖 [Online Bookmarker](https://github.com/Mohamed-Huss/My-Bookmark) - Save and manage your favorite web destinations.
+- 💬 [Random Quote Generator](https://github.com/Mohamed-Huss/Random-quote-generator) - Get inspired with every click, without repetitions.-->
+
+
 
 ## 🤝 Let's Connect:
 
