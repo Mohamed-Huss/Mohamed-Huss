@@ -43,16 +43,15 @@
 
 ## 🤝 Let's Connect:
 
-<span align="left">
+<p align="left">
 <a href="https://www.linkedin.com/in/mohamedhussein92/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedhussein92/" height="25" width="25" /></a>
-</span>
-<span>      </span>
+</p>
 
-<span align="left">
+<p align="left">
 <a href="mailto:mhuss106@uottawa.ca">
 <img align="center" src="https://github.com/Mohamed-Huss/Assets/blob/main/mail-email-svgrepo-com.svg" alt="Mohamed Hussein Email" height="25" width="25" /></a>
-</span>
+</p>
 
 
 
