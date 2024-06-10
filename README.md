@@ -33,6 +33,8 @@
 </p>
 
 ## 🌐 Selected Projects:
+- ![Amazon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/24px-Amazon_icon.svg.png) [Amazon-Clone](https://github.com/Mohamed-Huss/Amazon-Clone) - Ultimate destination for a seamless and enjoyable online shopping experience.
+- ![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/20px-Figma-logo.svg.png) [Figma-Clone](https://github.com/Mohamed-Huss/Figma_Clone) -  Bring your design ideas to life with seamless collaboration and innovative features.
 - 📚 [QuizApp](https://github.com/Mohamed-Huss/QuizApp) - Dive into an interactive quiz experience.
 - ☀️ [Weather-App](https://github.com/Mohamed-Huss/Weather-App) - User-friendly weather insights.
 - 🍽️ [Yummy App](https://github.com/Mohamed-Huss/Yummy-App) - Discover delicious meals and recipes from around the world.
